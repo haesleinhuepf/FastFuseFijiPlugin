@@ -34,7 +34,7 @@ import java.io.IOException;
 import java.util.Arrays;
 import java.util.List;
 
-@Plugin(type = Command.class, menuPath = "XWing>Postprocessing>FastFuse")
+@Plugin(type = Command.class, menuPath = "XWing>Postprocessing>FastFuse 4 light sheets, 2 detection arms")
 public class FastFuseFijiPlugin implements
     Command
 {
