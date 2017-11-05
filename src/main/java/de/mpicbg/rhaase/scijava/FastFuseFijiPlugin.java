@@ -34,7 +34,7 @@ import java.io.IOException;
 import java.util.Arrays;
 import java.util.List;
 
-@Plugin(type = Command.class, menuPath = "XWing>DoG (ClearCL)")
+@Plugin(type = Command.class, menuPath = "XWing>Postprocessing>FastFuse")
 public class FastFuseFijiPlugin implements
     Command
 {
